@@ -1,5 +1,5 @@
 # TrickyCircles
-A puzzle game and solver using the Breadth First Search algorithm, made with pygame.
+A puzzle game and solver using the Breadth First Search algorithm, made with Pygame.
 
 The idea of the game was inspired by the game *Tricky Animals*, see: http://www.tricky-animals.de/. 
 The main attraction for this project was creating a solver which could solve any level from the game using the Breadth First Search algorithm.
