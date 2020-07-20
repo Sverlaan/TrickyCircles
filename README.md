@@ -22,7 +22,7 @@ To accomplish this goal, the following buttons and signs are available:
 ## Screenshot
 ![screenshot](/resources/screenshot.png)
 
-## Author
+## Authors
 * Stan Verlaan
 
 This project was inspired by an assignment from the course Datastructures and Algorithms for Artificial Intelligence, AI - Utrecht University 2020.
