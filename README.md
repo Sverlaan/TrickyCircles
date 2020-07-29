@@ -22,9 +22,10 @@ To accomplish this goal, the following buttons and signs are available:
 ## Screenshot
 ![screenshot](/resources/screenshot.png)
 
-## Authors
+## Author
 * Stan Verlaan
 
+## Acknowledgements
 This project was inspired by an assignment from the course Datastructures and Algorithms for Artificial Intelligence, AI - Utrecht University 2020.
 For this bonus assignment, an algorithm for solving the *Tricky Animals* game needed to be designed. 
 I figured I would implement it using pygame to create my own version of the game in order to visualize the solver.
